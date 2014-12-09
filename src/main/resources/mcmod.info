@@ -1,0 +1,16 @@
+[
+{
+  "modid": "realisticsurvival",
+  "name": "Realistic Survival",
+  "description": "A mod to make Minecraft much more realistic.",
+  "version": "Alpha F1.0",
+  "mcversion": "1.8.0",
+  "url": "http://marksill.me",
+  "updateUrl": "",
+  "authorList": ["MarkSill"],
+  "credits": "MarkSill, for writing all of the code and creating all of the textures.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
